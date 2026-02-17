@@ -36,7 +36,7 @@ ScholarSpace is an educational productivity app designed to help students manage
 - Dagger Hilt  
 - Room Database  
 - Navigation Component (Compose)  
-- Material Design 3  
+- Material Design3  
 - MVVM Architecture  
 
 ---
